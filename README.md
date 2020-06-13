@@ -2,9 +2,17 @@
 Aplicación móvil para la solicitud y gestión de servicios generales del hogar. 
 
 Reglas de programación.
+
 Camel Case.
-Variables: descripción corta + entidad, ejemplo: nombreAlumno; valorTrabajo
-Constantes: Guión bajo ( _ ) + entidad, ejemplo: _valorIVA
+
+Variables: 
+- descripción corta + entidad.
+Ejemplo: 
+- nombreAlumno; valorTrabajo
+Constantes: 
+- Guión bajo ( _ ) + entidad
+Ejemplo:
+- _valorIVA
 
 Estructura del Proyecto:
 - assets: Se guardan las carpetas que contendrán los archivos multimedia necesarios para el diseño 
