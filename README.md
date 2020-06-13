@@ -8,11 +8,12 @@ Camel Case.
 Variables: 
 - descripción corta + entidad.
 Ejemplo: 
-- nombreAlumno; valorTrabajo
+- "nombreAlumno"; "valorTrabajo".
+
 Constantes: 
 - Guión bajo ( _ ) + entidad
 Ejemplo:
-- _valorIVA
+- "_valorIVA".
 
 Estructura del Proyecto:
 - assets: Se guardan las carpetas que contendrán los archivos multimedia necesarios para el diseño 
